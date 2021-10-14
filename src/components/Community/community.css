@@ -12,6 +12,15 @@
   margin: 1rem 0;
 }
 
+@media (max-width:800px){
+  #comlogo {
+    height: 110px;
+    width: 200px;
+    border-radius: 1rem;
+    margin: 1rem 0;
+  }
+}
+
 .grad-header {
     position: relative;
     overflow: hidden;
