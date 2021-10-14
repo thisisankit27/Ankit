@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ankit/static/css/main.db508868.chunk.css",
+    "main.css": "/Ankit/static/css/main.3c5331a7.chunk.css",
     "main.js": "/Ankit/static/js/main.402d3362.chunk.js",
     "main.js.map": "/Ankit/static/js/main.402d3362.chunk.js.map",
     "runtime-main.js": "/Ankit/static/js/runtime-main.60e631c6.js",
@@ -12,7 +12,7 @@
     "static/js/3.872d2d0f.chunk.js.map": "/Ankit/static/js/3.872d2d0f.chunk.js.map",
     "index.html": "/Ankit/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/Ankit/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.db508868.chunk.css.map": "/Ankit/static/css/main.db508868.chunk.css.map",
+    "static/css/main.3c5331a7.chunk.css.map": "/Ankit/static/css/main.3c5331a7.chunk.css.map",
     "static/js/2.80ca6546.chunk.js.LICENSE.txt": "/Ankit/static/js/2.80ca6546.chunk.js.LICENSE.txt",
     "static/media/MakeCareerEasy.b78de245.gif": "/Ankit/static/media/MakeCareerEasy.b78de245.gif",
     "static/media/ankit.5e45f2b0.jpg": "/Ankit/static/media/ankit.5e45f2b0.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.60e631c6.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.80ca6546.chunk.js",
-    "static/css/main.db508868.chunk.css",
+    "static/css/main.3c5331a7.chunk.css",
     "static/js/main.402d3362.chunk.js"
   ]
 }
