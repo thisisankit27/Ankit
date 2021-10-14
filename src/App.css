@@ -1,38 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
 .App {
   text-align: center;
+  width: 100%;
+  background-color: black;
+}
+* {
+  box-sizing: border-box;
+  font-weight: 500 !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1,h2 {
+  font-family: "Poppins", sans-serif;
+  margin: 1.25rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h3 {
+
+  font-family: 'DM Sans', sans-serif;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.grad-text {
+    
+  background: linear-gradient(-45deg, #ee7752 20%, #e73c7e 40%, #23a6d5 60%, #23d5ab 80%);
+  background-size: 200% auto;
+  
+  color: #000;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  animation: shine 6s ease infinite;
 }
