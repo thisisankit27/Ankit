@@ -47,9 +47,9 @@ export default function Footer() {
                 &copy; {new Date().getFullYear()} Copyright:{" "}
                 <a href="https://www.instagram.com/_codedecipher/" target="__blank"> Code Decipher </a>
               </MDBCol>
-              <MDBCol>
+              {/* <MDBCol>
                 Sincerely grateful of<a href="https://www.instagram.com/aditipattnaikkk/" target="__blank"> Aditi Pattnaik </a> for Graphics.
-              </MDBCol>
+              </MDBCol> */}
             </MDBRow>
           </MDBContainer>
         </div>

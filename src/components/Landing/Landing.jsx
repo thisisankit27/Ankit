@@ -29,7 +29,7 @@ export default function Landing() {
                 <Button data-aos="fade-left" data-aos-duration="500" variant="outline-light" size="xxl" className="btn m-2" style={{ fontFamily: 'Poppins' }} href="https://www.youtube.com/codedecipher" target="__blank"   >
                     <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" style={{ maxHeight: '30px' }} alt={"discord img"} />{' '}YouTube
                 </Button>
-                <Button data-aos="fade-left" data-aos-duration="500" variant="outline-light" size="xxl" className="btn m-2" style={{ fontFamily: 'Poppins' }} href="https://www.instagram.com/_codedecipher/" target="__blank"   >
+                <Button data-aos="fade-left" data-aos-duration="500" variant="outline-light" size="xxl" className="btn m-2" style={{ fontFamily: 'Poppins' }} href="https://www.linkedin.com/in/thisisankitsrivastava/" target="__blank"   >
                     <SocialIcon style={{ maxHeight: '30px' }} url="https://www.linkedin.com/in/thisisankitsrivastava/" target="_blank" />LinkedIn
                 </Button>
                 {/* <div>
